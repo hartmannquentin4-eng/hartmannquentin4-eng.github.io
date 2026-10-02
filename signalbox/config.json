@@ -1,0 +1,19 @@
+{
+  "v": 1,
+  "_hinweis": "Wird von der App beim Start geladen. Nur diese Zahlen werden übernommen, jeweils nur innerhalb fester Grenzen (siehe stellwerk/js/remote.js). Datei ändern, hochladen – wirkt beim nächsten App-Start, ohne Update.",
+  "ads": {
+    "interstitialEvery": 3,
+    "interstitialEveryLater": 2,
+    "laterFromDay": 3,
+    "minSecondsBetween": 120
+  },
+  "econ": {
+    "hintsFree": 3,
+    "unlockPerStar": 200,
+    "freeCoinsPerDay": 5,
+    "freeCoinsAmount": 100,
+    "deliveryBase": 60,
+    "deliveryStep": 15,
+    "remindHour": 18
+  }
+}
